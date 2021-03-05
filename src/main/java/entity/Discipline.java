@@ -11,6 +11,7 @@ public class Discipline {
         this.id = id;
         this.discipline = discipline;
         this.status = status;
+
     }
 
     public int getId() {

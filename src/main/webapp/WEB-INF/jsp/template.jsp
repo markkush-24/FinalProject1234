@@ -21,6 +21,11 @@
             <td>Система управления студентами и их успеваемостью</td>
         </tr>
     </table>
+    <div>
+        <c:if test="${isLogin ne null }">
+            <a href="/logout" style="font-size: small;">Logout</a>
+        </c:if>
+    </div>
 </header>
 <section>
     <jsp:include page="${currentPage}" flush="true" />

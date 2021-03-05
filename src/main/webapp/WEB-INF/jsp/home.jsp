@@ -5,11 +5,11 @@
     <table cellpadding="0">
         <tr>
             <td align="left"><a
-                    href="">Студенты</a></td>
+                    href="/all-students">Студенты</a></td>
             <td align="center"><a
                     href="/disciplines">Дисциплины</a></td>
             <td align="center"><a href="">Внести оценки</a></td>
-            <td align="right"><a href="">Семестры</a></td>
+            <td align="right"><a href="/semestr">Семестры</a></td>
         </tr>
     </table>
 </div>

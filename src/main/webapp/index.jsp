@@ -20,8 +20,5 @@
         </tr>
     </table>
 </header>
-<section>
-    <jsp:include page="${currentPage}" flush="true" />
-</section>
 </body>
 </html>

@@ -43,7 +43,7 @@
 
                 </table>
             </td>
-
+            <c:if test="${idRole == 1}">
             <td valign="top" align="left" style="padding: 0">
                 <table cellspacing="0">
 
@@ -71,6 +71,7 @@
 
                 </table>
             </td>
+            </c:if>
         </tr>
     </table>
 
